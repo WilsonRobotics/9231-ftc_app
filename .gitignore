@@ -26,6 +26,7 @@ build/
 
 #doc
 *.html
+*.pdf
 
 *ASUS_PC_01*
 
