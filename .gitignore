@@ -24,5 +24,8 @@ Thumbs.db
 .gradle
 build/
 
+#doc
+*.html
+
 *ASUS_PC_01*
 
